@@ -51,9 +51,6 @@ Don’t take being a member of this council lightly, it's a serious responsibili
 
 * [Maxime](maxime_daniel.md)
 
-* … ?
-
-The council needs 9 members.
 
 ## Fit for duty requirements
 
@@ -114,17 +111,6 @@ We evaluate based on
 
 * Sustainability
 
-## Details
-
-* Remuneration
-
-    * 80 EUR value in TFT per hour for the work we do as grid guardians
-
-* How do we work together
-
-    * A public visible circle on circles.threefold.me
-
-* Expect this to be +- 4-8h of work per month and needs to be done outside your normal work responsibilities.
 
 ## Voting
 
@@ -148,15 +134,4 @@ We evaluate based on
 
 * Transactions can only happen if at least 6 of the 9 people sign.
 
-## Onboarding
-
-* Personal page on Alliance for conscious Internet (see Karoline for help)
-
-    * Mention all technical work you do (link to github repo’s, …)
-
-* Prepare voting request for your own onboarding request (become member of council)
-
-    * Example will be given by Kristof
-
-* A video on vimeo (threefold account) which talks <2min about why you want to be part of council and why you believe you are in line with the requirements to be a guardian. Also talk about where you believe you need to improve in line of the requirements. Make sure people can see your good intentions.
 
