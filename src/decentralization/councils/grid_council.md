@@ -27,32 +27,18 @@ Together they take the required decisions for the ThreeFold Grid Related day2day
     * The Foundation is a "VZW" in Belgium which is an official not for-profit structure.
 * Grid council is day to day operation
 
-## Candidates 
+## Council 
 
-Don’t take being a member of the council too lightly, it's a serious responsibility.
+* [Kristof De Spiegeleer](kristof.md)
+* [Adnan Fatayerji](adnan_fatayerji.md)
+* [Jan De Landtsheer](jan_de_landtsheer.md)
+* [Rob Van Mieghem](rob_van_mieghem.md)
+* [Andreas Hartl](andreas_hartl.md)
+* [Weynand Kuijpers](weynand.md)
+* [Owen Kemp](owen_kemp.md)
+* [Christophe de Carvalho Pereira Martins](christophe_dcmp.md)
+* [Dave Debelder](dave_debelder.md)
 
-* [Kristof](kristof.md)
-* [Adnan](adnan_fatayerji.md)
-* [Jan](jan_de_landtsheer.md)
-* [Rob](rob_van_mieghem.md)
-* [Andreas](andreas_hartl.md)
-* [Weynand](weynand.md)
-* [Chris](chris_hutton.md)
-* [Owen](owen_kemp.md)
-* [Christophe](christophe_dcmp.md)
-* [Dave](dave_debelder.md)
-
-<!--- 
-### Additional candidates
-
-* [Chris](chris_hutton.md)
-
-* [Sam](sam_taggart.md)
-
-* [Sacha](sacha_obeegadoo.md)
-
-* [Nickolay](nickolay_babenko.md)
--->
 
 ## Fit for duty requirements
 
@@ -126,14 +112,3 @@ Don’t take being a member of the council too lightly, it's a serious responsib
 * Each vote is a transaction prepared (sending 1 TFT from voting wallet to voting wallet) with the voting ID and voting hash (hash is a unique key guaranteeing the validity of the content of the voting request) as part of the transaction description. This makes sure that everyone with 100% certainty agrees on the voting request and signs the transaction.
 
 * Transactions can only happen if at least 6 of the 9 people sign.
-
-## Onboarding
-
-* Personal page on Alliance for conscious Internet (see Karoline for help)
-
-* Prepare voting request for your own onboarding request (become member of council)
-
-    * Example will be given by Kristof
-
-* A video on vimeo (threefold account) which talks <2min about why you want to be part of council and why you believe you are in line with the requirements to be a guardian. Also talk about where you believe you need to improve in line of the requirements. Make sure people can see your good intentions.
-
