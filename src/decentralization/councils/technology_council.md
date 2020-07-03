@@ -22,7 +22,7 @@ Together they take the required decisions for the ThreeFold Grid Related day2day
 
     * ...
 
-* The technology council has been approved by the [grid council](https://docs.google.com/document/d/14wRroPcgRBFhmwP_93CMJUK0dYv2UqEOHpZKjeqYeDE/edit#).
+* The technology council has been approved by the [grid council.
 
     * Each Technology Guardian was interviewed by the grid council and approved to align with "fit for duty requirements"
 
@@ -95,7 +95,7 @@ Don’t take being a member of this council lightly, it's a serious responsibili
 
 * Willing to be a Technology Guardian for at least 2 years starting your submission.
 
-## Our charter
+## Our character
 
 We will do everything we can to protect the technical sanity of the ThreeFold Grid core technologies.
 
